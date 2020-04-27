@@ -10,3 +10,6 @@
 2. Install and apply the custom style from
     UserStyles https://userstyles.org/styles/182894/telegram-web-redesigned
 3. Enjoy!
+
+## Credits
+@RisingFire for the original concept which you can find here https://www.behance.net/gallery/95824793/Telegram-Refresh-A-Long-Needed-Update
