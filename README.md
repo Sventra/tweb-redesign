@@ -5,6 +5,8 @@
 
 ![Preview screenshot](/images/screenshot.png)
 
+[Comparison here!](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=31bd35f2-903a-11ea-a879-0edaf8f81e27)
+
 ## How to install it
 ### Method 1
 1. Download the Stylus extension
