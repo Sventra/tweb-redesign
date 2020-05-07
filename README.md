@@ -6,11 +6,12 @@
 ![Preview screenshot](/images/screenshot.png)
 
 ## How to install it
+### Method 1
 1. Download the Stylus extension
-    Firefox: https://addons.mozilla.org/en-US/firefox/addon/styl-us/
-    Chrome: https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne
+    - Firefox: https://addons.mozilla.org/en-US/firefox/addon/styl-us/
+    - Chrome: https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne
 2. Install and apply the custom style from
-    UserStyles https://userstyles.org/styles/182894/telegram-web-redesigned
+    - UserStyles https://userstyles.org/styles/182894/telegram-web-redesigned
 3. Enjoy!
 
 ## Credits
