@@ -3,6 +3,8 @@
     <p>A nicer Telegram Web!</p>
 </div>
 
+![Preview screenshot](/images/screenshot.png)
+
 ## How to install it
 1. Download the Stylus extension
     Firefox: https://addons.mozilla.org/en-US/firefox/addon/styl-us/
