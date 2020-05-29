@@ -1,4 +1,3 @@
-@-moz-document domain("web.telegram.org") {
 /*      Author @Sventra                  */
 /*      Based on @RisingFire redesign    */
 body {
@@ -12,7 +11,7 @@ body {
 }
 .tg_head_logo_wrap {
     width: 20%;
-    margin-left: 11.5%;
+    margin-left: 11.4%;
 }
 .tg_head_main_wrap {
     width: 53.6%;
@@ -60,8 +59,11 @@ i.icon-search-clear {
 .im_history_pinned_wrap {
     border: none;
     background: #456A94;
-    padding-bottom: 7px;
+    padding-bottom: 14px;
     max-height: 50px;
+}
+.im_message_reply_thumbed .im_message_reply_border, .im_message_reply_thumbed .im_message_reply_wrap {
+    height: 32px;
 }
 .im_message_body {
     background: #283A50;
@@ -147,4 +149,59 @@ div.im_history_scrollable_wrap.nano-content {
 .im_edit_panel_border {
     border-bottom: 1px solid #435c79;
 }
+
+
+
+
+
+/* DROPDOWN */
+.tg_head_logo_dropdown .dropdown-menu {
+    border-bottom-left-radius: 32px;
+    border-bottom-right-radius: 32px;
+    border-left-color: transparent;
+    border-right-color: transparent;
+    background-color: #32455b;
+    right:auto;
+    left:-1px
+}
+.tg_head_logo_dropdown .dropdown-menu > li > a {
+    color: #fff;
+}
+.tg_head_logo_dropdown .dropdown-menu > li > a:hover {
+    background: #32455b;
+}
+.dropdown.open .tg_head_btn, .tg_head_btn:hover {
+    border-top-right-radius: 32px;
+    border-top-left-radius: 32px;
+    border-bottom-right-radius: 32px;
+    border-bottom-left-radius: 32px;
+    background: #32455b;
+}
+.dropdown.open .tg_head_btn, .tg_head_btn:active {
+    border-top-right-radius: 32px;
+    border-top-left-radius: 32px;
+    border-bottom-left-radius: 0px;
+    background: #32455b;
+}
+
+/* 3 dots menu */
+.tg_head_peer_dropdown .dropdown-menu {
+    border-top-left-radius: 32px;
+    border-bottom-left-radius: 32px;
+    border-bottom-right-radius: 32px;
+    border-left-color: transparent;
+    border-right-color: transparent;
+    background-color: #32455b;
+    right:-1px;
+}
+.tg_head_peer_dropdown .dropdown-menu > li > a {
+    color: #fff;
+}
+.dropdown-menu .divider {
+    background-color: #485a6f;
+}
+
+/* search */
+.im_dialogs_scrollable_wrap a.im_dialog_searchpeer {
+    background: #485a6f8f;
 }
