@@ -3,6 +3,10 @@
     <p>A nicer Telegram Web!</p>
 </div>
 
+[![Not Maintained](https://img.shields.io/badge/Maintenance%20Level-Abandoned-orange.svg)](https://gist.github.com/cheerfulstoic/d107229326a01ff0f333a1d3476e068d)
+
+Note: This redesign was intended to be used with the old version of Telegram Web, this is now deprecated and irrelevant and the repo will be Archived 
+
 ![Preview screenshot](/images/screenshot.png)
 
 [Comparison here!](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=31bd35f2-903a-11ea-a879-0edaf8f81e27)
